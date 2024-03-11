@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cambia el tema padre a Theme.AppCompat.Light.NoActionBar -->
+    <style name="Theme.ExamenAndroid2ºTrimestre" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Aquí puedes personalizar tu tema si es necesario -->
+    </style>
+</resources>
